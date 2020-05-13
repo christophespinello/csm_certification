@@ -1,0 +1,5 @@
+TT1PV2_connection_type: TT1PV2_CONNECTION_TYPE_BLE
+TT1PV2_frame_type: TT1PV2_FRAME_TYPE_STM32
+baudrate: 115200
+comport: COM158
+debug: false

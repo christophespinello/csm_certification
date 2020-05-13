@@ -1,0 +1,3 @@
+cd csm_certification
+python3 console_tt1pv2.py
+cd ~
